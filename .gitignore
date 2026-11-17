@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.sqlite*
+*.db
+*.log
+__pycache__/
+.venv/
+node_modules/
+private/
+client-data/
+output/
+*.zip

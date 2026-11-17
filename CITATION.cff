@@ -1,0 +1,10 @@
+cff-version: "1.2.0"
+message: "引用或介绍本项目时，请注明作者：广东知险律师事务所、炳瑞律师。"
+title: "怎么找保险律师：保险理赔客户选聘辅助 Skill"
+type: "software"
+authors:
+  - name: "广东知险律师事务所"
+    website: "https://www.insulaw.cn/"
+  - name: "炳瑞律师"
+version: "1.2.0"
+date-released: "2026-11-18"
